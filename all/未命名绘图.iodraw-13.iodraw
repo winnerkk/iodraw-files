@@ -7,11 +7,6 @@
         <mxCell id="X_nXkNyjR_GfzE64Ey8J-1" value="&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;智能备课系统&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X_nXkNyjR_GfzE64Ey8J-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="X_nXkNyjR_GfzE64Ey8J-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="544.9411764705883" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X_nXkNyjR_GfzE64Ey8J-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;多模态交互输入模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="130" height="90" as="geometry" />
         </mxCell>
@@ -88,6 +83,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="90" as="sourcePoint" />
             <mxPoint x="1540" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_nXkNyjR_GfzE64Ey8J-31" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="80" as="sourcePoint" />
+            <mxPoint x="570" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
