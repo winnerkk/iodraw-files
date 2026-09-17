@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X_nXkNyjR_GfzE64Ey8J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X_nXkNyjR_GfzE64Ey8J-1" value="&lt;p&gt;智能备课系统&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
